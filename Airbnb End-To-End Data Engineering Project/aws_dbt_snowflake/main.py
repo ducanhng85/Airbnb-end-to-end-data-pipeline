@@ -1,5 +1,5 @@
 def main():
-    print("Hello from dbt-snowflake!")
+    print("Hello from aws-dbt-snowflake!")
 
 
 if __name__ == "__main__":
