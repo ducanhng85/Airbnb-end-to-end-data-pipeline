@@ -1,0 +1,4 @@
+{
+    "dbt.dbtPythonPathOverride": "/Users/bebexmimi/Documents/Projects for DE/dbt-snowflake/.venv/bin/python3",
+    "dbt.perspectiveTheme": "Pro Dark"
+}
